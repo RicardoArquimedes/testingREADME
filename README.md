@@ -1,6 +1,4 @@
 
-<font color='red'>test blue color font</font>
-
 <p align="center">
         <img src="https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/104448042_2608745076110649_8646754031899513624_o.png?_nc_cat=108&_nc_sid=174925&_nc_ohc=zDYFAk4wVUcAX_FuUU9&_nc_ht=scontent.feoh1-1.fna&oh=a74be9afae4c0e3c269e6ae1a55f6bba&oe=5F627106" width="280"/>
         </p>
@@ -10,8 +8,8 @@
      </p>
      
      
-<p=  align=left">
-<img src= "https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/75472775_2401971746787984_3640828276282228736_n.png?_nc_cat=109&_nc_sid=174925&_nc_ohc=E0Yy6TiuHAUAX9CKLKy&_nc_ht=scontent.feoh1-1.fna&oh=4adca9e3c019121981bf715c778a9b36&oe=5F637CD2" style="float: left; margin-right: 10px;">
+<p align="left">
+<img src= "https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/75472775_2401971746787984_3640828276282228736_n.png?_nc_cat=109&_nc_sid=174925&_nc_ohc=E0Yy6TiuHAUAX9CKLKy&_nc_ht=scontent.feoh1-1.fna&oh=4adca9e3c019121981bf715c778a9b36&oe=5F637CD2" width="10" style="float: left; margin-right: 10px;">
 
 </p>
 
