@@ -10,9 +10,12 @@
      </p>
      
      
-# 0x16. C - Simple Shell 
+<p=  align=left">
+<img src= "https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/75472775_2401971746787984_3640828276282228736_n.png?_nc_cat=109&_nc_sid=174925&_nc_ohc=E0Yy6TiuHAUAX9CKLKy&_nc_ht=scontent.feoh1-1.fna&oh=4adca9e3c019121981bf715c778a9b36&oe=5F637CD2" style="float: left; margin-right: 10px;">
 
-# Simple shell
+</p>
+
+# 0x16. C - Simple shell
 In this project we'll create a simple UNIX command interpreter in C programming language.
 
 ## Table of Contents
