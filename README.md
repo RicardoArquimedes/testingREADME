@@ -7,11 +7,6 @@
           <img src="https://www.holbertonschool.com/holberton-logo.png" width="360"/>
      </p>
      
-     
-<p align="left">
-<img src= "https://raw.githubusercontent.com/RicardoArquimedes/testingREADME/master/simple_Shell.png"/>
-</p>
-
 # 0x16. C - Simple shell
 In this project we'll create a simple UNIX command interpreter in C programming language.
 
